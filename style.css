@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    margin-top: 0px;
+    width: 100%;
+    padding: 10px;
+
+}
+#start , #number_of_objects , #start{
+    font-size: 18px;
+}
