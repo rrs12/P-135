@@ -22,3 +22,8 @@ input{
 	margin: 10px;
     padding: 10px;
 }
+canvas{
+    border: 2px white solid;
+   vertical-align: center;
+   margin-left:50%;
+}
